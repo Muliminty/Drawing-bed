@@ -21,9 +21,12 @@
 > Markdown-image › Github: Token
 > GitHub 的个人访问令牌，用于访问仓库，上传图片。
 
+使用教程
+![图 13](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162459-图床教程.png)  
+![图 14](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162804-图床教程.png)  
 ```
-使用
+最后就会生成链接 然后替换后面的 xxx.png 为正确的名称
+![图 14](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/xxx.png)  
 ![图 12](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162233-配置介绍.png)  
 ```
 
-![图 13](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162459-图床教程.png)  
