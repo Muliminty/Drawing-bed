@@ -21,4 +21,7 @@
 > Markdown-image › Github: Token
 > GitHub 的个人访问令牌，用于访问仓库，上传图片。
 
+```
 ![图 12](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162233-配置介绍.png)  
+```
+
