@@ -1,10 +1,10 @@
 # Drawing-bed
 
-个人图床 
+## 个人图床 
 
 基于 vscode 插件 Markdown Image
 
-配置项
+## 配置项
 
 > Markdown-image › Base: File Name Format
 > ${YY}${MM}${DD}${HH}${mm}${ss}-${prompt}
@@ -21,7 +21,8 @@
 > Markdown-image › Github: Token
 > GitHub 的个人访问令牌，用于访问仓库，上传图片。
 
-使用教程
+## 使用教程
+
 ![图 13](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162459-图床教程.png)  
 ![图 14](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162804-图床教程.png)  
 ```
