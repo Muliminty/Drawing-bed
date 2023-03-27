@@ -31,5 +31,5 @@
 ![图 12](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/20230313162233-配置介绍.png)  
 ```
 
-![](https://raw.githubusercontent.com/Muliminty/Drawing-bed/main/img/202303271434648.png)
+
 
